@@ -1,0 +1,15 @@
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\bin\Debug\ProyectoABD.exe.config
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\bin\Debug\ProyectoABD.exe
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\bin\Debug\ProyectoABD.pdb
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.csproj.AssemblyReference.cache
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.Form1.resources
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.Properties.Resources.resources
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.csproj.GenerateResource.cache
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.exe
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.pdb
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.csproj.CopyComplete
+C:\Users\Yahir\source\repos\ProyectoABD\ProyectoABD\obj\Debug\ProyectoABD.Form2.resources
